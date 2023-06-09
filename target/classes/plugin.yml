@@ -1,0 +1,12 @@
+main: me.flugel.spy.Main
+author: DevFlugelo
+version: 1.17
+name: Spy
+api-version: 1.17
+commands:
+  spy:
+  inv:
+  einv:
+  ajuda:
+  reportar:
+  getitens:
